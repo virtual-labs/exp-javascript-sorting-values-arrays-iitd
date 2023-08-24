@@ -12,9 +12,9 @@ Fill a brief description of this experiment here
 
 <b>Name of Developer | <b> Nidhi Goyal
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  KIET Group of Institutions, Ghaziabad
+<b> Email id|     <b>  nidhi.goyal@kiet.edu
+<b> Department |  ............
 
 ### Contributors List
 
