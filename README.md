@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Nidhi Goyal | Faculty | ... | KIET Group of Institutions | nidhi.goyal@kiet.edu
 2 | . | . | . | . | .
