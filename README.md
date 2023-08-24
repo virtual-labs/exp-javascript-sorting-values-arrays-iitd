@@ -4,7 +4,7 @@
 <b>Discipline | <b>Computer Science Engineering
 :--|:--|
 <b> Lab | <b> Web Designing Lab
-<b> Experiment|     <b> 2.To write a JavaScript program to define a user defined function for sorting the values in an array
+<b> Experiment|     <b> 2. To write a JavaScript program to define a user defined function for sorting the values in an array
 
 ### About the Experiment 
 
