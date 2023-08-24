@@ -14,11 +14,11 @@ Fill a brief description of this experiment here
 :--|:--|
 <b> Institute | <b>  KIET Group of Institutions, Ghaziabad
 <b> Email id|     <b>  nidhi.goyal@kiet.edu
-<b> Department |  ............
+<b> Department |  Information Technology
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Nidhi Goyal | Faculty | .... | KIET Group of Institutions | nidhi.goyal@kiet.edu
+1 | Nidhi Goyal | Faculty | Information Technology | KIET Group of Institutions | nidhi.goyal@kiet.edu
 2 | . | . | . | . | .
