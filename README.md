@@ -3,7 +3,7 @@
 
 <b>Discipline | <b>Computer Science Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
+<b> Lab | <b> Web Designing Lab
 <b> Experiment|     <b> Fill your experiment name and number here
 
 ### About the Experiment 
