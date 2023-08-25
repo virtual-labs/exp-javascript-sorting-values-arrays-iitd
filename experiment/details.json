@@ -1,0 +1,46 @@
+{
+
+   "details": [
+       {
+			"Experiment": "To write a Javascript program to define a user defined function for sorting the values in an array.",     
+			"Lab": "Web Designing Lab",               
+			"Discipline": "Information Technology",				 
+			"Technology": "Web Designing"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Dr. Sakshi Rathi",         
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",         
+      "InstituteAcronym": "KIET"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Nandini Jairath",             
+      "Institute": "",               
+			"InstituteAcronym": "KIET"         
+       },
+
+       {       
+			"Contributer": "Shreya Asthana",              
+      "Institute": "",               
+			"InstituteAcronym": "KIET"         
+       },
+
+       {       
+			"Contributer": "Shuvam Gupta",             
+      "Institute": "",               
+			"InstituteAcronym": "KIET"         
+       },
+
+       {       
+			"Contributer": "Parth Dogra",              
+      "Institute": "",               
+			"InstituteAcronym": "KIET"         
+       }
+   ]
+
+}
