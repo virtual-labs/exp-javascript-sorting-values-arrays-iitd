@@ -20,7 +20,8 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Nandini Jairath | Student | Computer Science and Information Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | nandinijairath@gmail.com
-2 | Shreya Asthana | Student | Information Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | shreyaasthana983@gmail.com
-3 | Shuvam Kumar Gupta | Student | Information Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | shubhamguptakmr@gmail.com
-4 | Parth Dogra | Student | Electronics and Communication | KIET Group of Institution, Delhi-NCR, Ghaziabad | parthdogra1@gmail.com
+1 | Nidhi Goyal | Faculty | Information Technology | KIET Group of Institutions | nidhi.goyal@kiet.edu
+2 | Nandini Jairath | Student | Computer Science and Information Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | nandinijairath@gmail.com
+3 | Shreya Asthana | Student | Information Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | shreyaasthana983@gmail.com
+4 | Shuvam Kumar Gupta | Student | Information Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | shubhamguptakmr@gmail.com
+5 | Parth Dogra | Student | Electronics and Communication | KIET Group of Institution, Delhi-NCR, Ghaziabad | parthdogra1@gmail.com
