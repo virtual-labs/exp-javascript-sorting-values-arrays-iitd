@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<head>
+	<title>JS Editor</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="experiment/simulation/css/style.css">
+</head>
+
+<center><div class="container" >
+    <div class="row">
+      <h3><b><u>JS Code Editor to sort an array using user defined function</u></b></h3>
+        <div class="col-sm-3">
+            <div class="tbox">
+                Sort Integers : 
+                <p> Sort - 2,5,8,1,4</p><br>
+                
+          <button type="button" class="btn btn-success" onclick='document.getElementById("jsCode").
+          innerHTML=` <!DOCTYPE html>
+<head>
+</head>
+<body style="background-color:yellow;text-align:center;">
+<h2 style="font-family:cursive;color:green;">JavaScript Array Sort For Integer Arrays</h2>
+
+<p>Lets sort decimal values 2,5,8,1,4</p>
+<button onclick="myFunction()">Try it</button>
+<p id="demo"></p>
+
+<script>
+var arr = [2, 5, 8, 1, 4]
+document.getElementById("demo").innerHTML = arr;
+
+function myFunction() {
+  arr.sort();
+  document.getElementById("demo").innerHTML = arr;
+}
+</script>
+</body>
+</html>`'>
+        Implement this </button></div>
+        </div>
+
+        <div class="col-sm-3">
+            <div class="tbox">
+                Sort Decimal :
+                <p> Sort - 2.5,5.5,8.5,1.5,4.5 </p><br>
+                
+          <button type="button" class="btn btn-success" onclick='document.getElementById("jsCode").
+          innerHTML=`  <!DOCTYPE html>
+<head>
+</head>
+<body style="background-color:orange;text-align:center;">
+<h2 style="font-family:cursive;color:red;">JavaScript Array Sort For Decimal Numbers</h2>
+
+<p>Lets sort decimal values 2.5,5.5,8.5,1.5,4.5</p>
+<button onclick="myFunction()">Try it</button>
+<p id="demo"></p>
+
+<script>
+var arr = [2.5, 5.5, 8.5, 1.5, 4.5]
+document.getElementById("demo").innerHTML = arr;
+
+function myFunction() {
+  arr.sort();
+  document.getElementById("demo").innerHTML = arr;
+}
+</script>
+</body>
+</html>`'>
+        Implement this </button></div>
+        </div>
+
+
+
+        <div class="col-sm-3">
+            <div class="tbox">
+                Sort Strings: 
+                    <p> Sort - Banana, Orange, Apple, Mango</p> <br>
+              <button type="button" class="btn btn-success" onclick='document.getElementById("jsCode").
+              innerHTML=` <!DOCTYPE html>
+<html>
+<body style="background-color:pink;text-align:center;" >
+
+<h2 style="font-family:cursive;color:blue;">JavaScript Array Sort For Strings</h2>
+
+<p>Lets sort Banana,Orange,Apple,Mango alphlabetically</p>
+<button onclick="myFunction()">Try it</button>
+<p id="demo"></p>
+
+<script>
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+document.getElementById("demo").innerHTML = fruits;
+
+function myFunction() {
+  fruits.sort();
+  document.getElementById("demo").innerHTML = fruits;
+}
+</script>
+
+</body>
+</html>`'> 
+            Implement this </button></div>
+
+        </div>
+
+
+        <div class="col-sm-3">
+            <div class="tbox">
+                Sort Yourself :
+                    <p> Create function and sort</p> <br>
+              <button type="button" class="btn btn-success" onclick='document.getElementById("jsCode").
+              innerHTML=` <!DOCTYPE html>
+  <html>
+  <head>
+  </head>
+  <body style="background-color:white;">
+  
+  </body>
+  </html`'>
+            Implement this </button></div>
+
+        </div>
+        </div>
+        </div>
+        </center>
+
+
+        <center>
+        	<div class="container">
+            <div class="row">
+            <div class="col-sm-6">
+<div class="code">
+  <textarea id="jsCode" style="height: 96%">
+<!DOCTYPE html>
+<head>
+</head>
+<body style="background-color:hotpink;text-align:center;font-family: cursive;">
+<h1 style="color: white;">Lets start sorting using javascript!!</h1>
+<h2 style="color: white;">Choose from the above 3 types and then make your own function to sort</h2>
+<p style="color: white;">Then implement to see effect</p>
+</body>
+</html>
+</textarea>  
+<button type="button" style="background-color: rgb(111, 151, 211); " class="btn btn-success" onclick="showPreview()">
+Try this out
+</button>    
+</div>
+</div>
+<div class="col-sm-6">
+<div class="preview">
+  <iframe id="preview-window"></iframe>
+</div>
+</div>
+</div>
+</div>
+            </center>
+
+
+
+  <script>
+  function showPreview(){
+  var jsCode = ""+document.getElementById("jsCode").value+"";
+  var frame = document.getElementById("preview-window").contentWindow.document;
+  frame.open();
+  frame.write(jsCode);
+  frame.close();
+}
+</script>
+</body>
+</html>
