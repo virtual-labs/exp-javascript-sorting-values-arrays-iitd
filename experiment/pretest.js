@@ -138,6 +138,7 @@
   // display quiz right away
   buildQuiz();
 
+  
   // on submit, show results
   submitButton.addEventListener("click", showResults);
 })();
@@ -148,3 +149,4 @@
 /////////////////////// Do not modify the above code ////////////////////////
 
 /////////////////////////////////////////////////////////////////////////////
+
