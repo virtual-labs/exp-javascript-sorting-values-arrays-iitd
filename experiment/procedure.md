@@ -1,10 +1,11 @@
 ##### These procedure steps will be followed on the simulator
 
-Initialize an array of integer elements <br>
-Set loops from the starting to the end of array<br>
+1. Initialize an array of integer elements. 
 
-Compare the element of array with all other elements<br>
-If the element under consideration is smaller than the next element then continue the loop else swap the elements<br>
+2. Set loops from the starting to the end of array.
 
-Continue the process till the entire list is sortedAnalyze the sorted array in the display section <br>
+3. Compare the element of array with all other elements.
 
+4. If the element under consideration is smaller than the next element then continue the loop else swap the elements.
+
+5. Continue the process till the entire list is sortedAnalyze the sorted array in the display section.
