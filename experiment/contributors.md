@@ -1,4 +1,3 @@
-
 ### Lab Coordinator :
 
 | SNo. | Name | Institute |
@@ -17,4 +16,4 @@
 | SNo. | Name | Institute |
 | :--: | :-- | :-------: |
 |  1   | Nidhi Goyal | KIET Group of Institutions |
-|  2   | ..... | ..... |
+|  2   | ..... | .....i |
