@@ -8,9 +8,9 @@ d. function sortFunction <br>
 <br>
 <br>
 Q2) What type of elements can be sorted using javascript? <br>
-a.<b>	Integer </b> <br>
-b.	String <br>
-c.  Decimal <br>
+a. <b>	Integer  </b> <br>
+b. String <br>
+c. Decimal <br>
 d. All of the above <br>
 <br>
 <br>
